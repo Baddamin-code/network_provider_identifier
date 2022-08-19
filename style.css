@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
 * {
     margin: 0;
     padding: 0;
@@ -24,4 +26,28 @@ body {
     height: 298px;
     background-color: #fff;
     border-radius: 4px;
+}
+
+.head-text {
+    margin-top: 31px;
+    margin-left: 20px;
+}
+
+h2 {
+    font-family: 'inter', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.phone {
+    font-family: 'inter', sans-serif;
+    font-size: 20;
+    line-height: 40px;
+}
+
+.phone-info {
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    color: #bbb;
+    font-weight: 300;
 }
