@@ -38,3 +38,9 @@ h2 {
     font-size: 24px;
     font-weight: 600;
 }
+
+.phone {
+    font-family: 'inter', sans-serif;
+    font-size: 20;
+    line-height: 40px;
+}
