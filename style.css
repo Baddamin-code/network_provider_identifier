@@ -24,7 +24,7 @@ body {
 .sub-container {
     width: 520px;
     height: 298px;
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.8);
     border-radius: 4px;
 }
 
@@ -50,4 +50,15 @@ h2 {
     font-size: 16px;
     color: #bbb;
     font-weight: 300;
+}
+
+.info-container {
+    margin: auto;
+    margin-top: 36px;
+    width: 480px;
+    height: 118px;
+    background-color: rgba(255, 255, 255, 0.209);
+    border: 1px solid rgba(204, 204, 204, 0.072);
+    border-radius: 5px;
+    box-shadow: 2px 3px 3px rgba(204, 204, 204, 0.778);
 }
