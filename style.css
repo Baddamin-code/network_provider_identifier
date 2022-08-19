@@ -44,3 +44,10 @@ h2 {
     font-size: 20;
     line-height: 40px;
 }
+
+.phone-info {
+    font-family: 'inter', sans-serif;
+    font-size: 16px;
+    color: #bbb;
+    font-weight: 300;
+}
