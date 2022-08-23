@@ -62,3 +62,72 @@ h2 {
     border-radius: 5px;
     box-shadow: 2px 3px 3px rgba(204, 204, 204, 0.778);
 }
+
+.row {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.region, .carrier {
+    margin-bottom: 16px;
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.subject {
+    color: #00000040;
+}
+
+.type {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 82px;
+    font-size: 17px;
+}
+
+.flag-nigeria {
+    margin-right: 14px;
+}
+
+.text-region, .network-provider {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #00000080;
+}
+
+.provider {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 68px;
+    font-size: 17px;
+}
+
+.number {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-right: 25px;
+}
+
+input {
+    width: 170px;
+    height: 22px;
+    border: none;
+    font-size: 15px;
+    color: #00000080;
+}
+
+input::placeholder {
+    color: #00000040;
+    font-size: 15px;
+}
+
+input::-webkit-outer-spin-button, 
+input::-webkit-inner-spin-button {
+    appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+  }
