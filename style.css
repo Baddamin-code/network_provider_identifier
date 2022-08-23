@@ -62,3 +62,13 @@ h2 {
     border-radius: 5px;
     box-shadow: 2px 3px 3px rgba(204, 204, 204, 0.778);
 }
+
+.row {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.region, .carrier {
+    margin-bottom: 16px;
+}
