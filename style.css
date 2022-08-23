@@ -76,3 +76,19 @@ h2 {
 .icon {
     margin-right: 10px;
 }
+
+.subject {
+    color: #00000040;
+}
+
+.type {
+    margin-right: 82px;
+}
+
+.provider {
+    margin-right: 68px;
+}
+
+.number {
+    margin-right: 25px;
+}
